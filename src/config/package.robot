@@ -25,3 +25,5 @@ Resource            ../auto/pages/page_register.robot
 #                  Hooks                     #
 ###############################################
 Resource              hooks.robot
+Variables             hooks.yaml
+

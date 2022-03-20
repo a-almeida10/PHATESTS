@@ -6,8 +6,8 @@ Resource             ../../config/package.robot
 
 *** Keywords ***
 Acessar a página home do site Automation Practice
-    Go To                             ${URL} 
-    Maximize Browser Window
+    # Go To                             ${URL} 
+    # Maximize Browser Window
     Title Should Be                   ${HOME_PAGE.title}    
     Wait Until Element Is Visible     ${HOME_PAGE.input_busca}      10
 Digitar o nome do produto "${PRODUTO}" no campo de pesquisa 
