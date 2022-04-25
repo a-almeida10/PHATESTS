@@ -4,7 +4,7 @@
  Foram criados testes automatizados para validar busca de produtos em um e-commerce, adicionar e remover produtos do carrinho, e
  cadastrar um novo usuário.
  Algumas habilidades importantes aprendidas foram:
- -Seleniumlibrary
- -DebugLibrary
- -FakerLibrary
- -Uso de keywords
+ - Seleniumlibrary
+ - DebugLibrary
+ - FakerLibrary
+ - Uso de keywords
